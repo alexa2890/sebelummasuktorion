@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CobaLoginAgungFlutter</string>
+    <string name="facebook_app_id">299976292028862</string>
+    <string name="fb_login_protocol_scheme">fb299976292028862</string>
+    <string name="facebook_client_token">e8581db29718d6d76a22e0eab2011251</string>
+</resources>
